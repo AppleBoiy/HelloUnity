@@ -1,0 +1,12 @@
+{
+  "name": "com.appleboiy.hello",
+  "version": "1.0.0",
+  "description": "My First Unity Package",
+  "displayName": "Hello Unity",
+  "unity": "2023.2",
+  "author": {
+    "name": "AppleBoiy",
+    "email": "contact.chaipat@gmail.com",
+    "url": "https://github.com/AppleBoiy"
+  }
+}
