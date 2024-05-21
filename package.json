@@ -4,6 +4,9 @@
   "description": "My First Unity Package",
   "displayName": "Hello Unity",
   "unity": "2023.2",
+  "unityRelease": "7f1",
+  "license": "Unlicense",
+  "licensesUrl": "https://github.com/ape-playground/HelloUnity/blob/main/LICENSE",
   "author": {
     "name": "AppleBoiy",
     "email": "contact.chaipat@gmail.com",
